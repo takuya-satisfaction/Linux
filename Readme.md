@@ -11,16 +11,16 @@
 
 |ディストリビューション|説明|
 |:---:|:---:|
-|RedHat|--------------|
+|RedHat系----|--------------|
 |Red Hat|RedHat社が開発|
 |Fedora|RedHatのコミュニティ|
 |CentOS|REHLのフリー|
 |Scientific Linux|科学・物理学|
-|Debian|--------------|
+|Debian系----|--------------|
 |Debian|GNU|
 |Ubuntu|Linux初心者、LTSがある|
 |Linux Mint|Ubuntuベース　使いやすい|
-|その他|--------------|
+|その他----|--------------|
 |OpenSUSE|SUSE社が支援|
 |Arch Linux|エレガントさ、上級者向け|
 
